@@ -1,1 +1,0 @@
-# Servicio Alquiler de Equipos
