@@ -1,1 +1,82 @@
 Inicio del registro del sistema
+2026-11-22 01:11:49.015446 - CLIENTE REGISTRADO: grtgrtg
+2026-11-22 01:11:49.016453 - Finalizó proceso de registro de cliente.
+2026-11-22 01:12:31.062106 - Reserva creada.
+2026-11-22 01:13:11.307637 - ERROR PROCESAR RESERVA: Solo se pueden procesar reservas confirmadas.
+2026-11-22 01:14:17.589786 - Reserva confirmada
+2026-11-22 01:14:36.568409 - Reserva procesada.
+2026-11-22 01:15:17.620945 - Aplicación finalizada.
+2026-11-22 01:16:00.828599 - Aplicación finalizada.
+2026-11-22 02:19:45.578754 - CLIENTE REGISTRADO: Anais rojas
+2026-11-22 02:19:45.579823 - Finalizó proceso de registro de cliente.
+2026-11-22 02:20:25.411723 - CLIENTE REGISTRADO: Martha suarez
+2026-11-22 02:20:25.412552 - Finalizó proceso de registro de cliente.
+2026-11-22 02:20:59.791310 - ERROR RESERVA: could not convert string to float: ''
+2026-11-22 02:32:15.327158 - Aplicación finalizada.
+2026-11-22 02:32:49.512602 - ERROR RESERVA: No existen clientes registrados.
+2026-11-22 02:36:14.841364 - Aplicación finalizada.
+2026-11-22 02:37:25.499889 - CLIENTE REGISTRADO: Anais Rojas
+2026-11-22 02:37:25.500894 - Finalizó proceso de registro de cliente.
+2026-11-22 02:38:17.157040 - Reserva creada.
+2026-11-22 02:38:32.036710 - Reserva confirmada
+2026-11-22 02:41:53.418451 - ERROR RESERVA: No existen clientes registrados.
+2026-11-22 02:42:39.655384 - ERROR PROCESAR RESERVA: No existen reservas registradas.
+2026-11-22 02:42:48.881647 - Aplicación finalizada.
+2026-11-22 02:42:48.882993 - PRUEBA DE FUNCIONAMIENTO
+2026-11-22 02:54:08.200935 - CLIENTE REGISTRADO: anais rojas
+2026-11-22 02:54:08.201522 - Finalizó proceso de registro de cliente.
+2026-11-22 02:54:28.869695 - Aplicación finalizada.
+2026-11-22 03:01:50.066398 - Inicio simulación automática.
+2026-11-22 03:01:50.067445 - SIMULACIÓN: Cliente válido
+2026-11-22 03:01:50.068514 - SIMULACIÓN: Identificación vacía
+2026-11-22 03:01:50.069483 - SIMULACIÓN: Correo inválido
+2026-11-22 03:01:50.070331 - SIMULACIÓN: Teléfono inválido
+2026-11-22 03:01:50.071021 - SIMULACIÓN: Fecha inválida
+2026-11-22 03:01:50.071426 - SIMULACIÓN: Reserva válida
+2026-11-22 03:01:50.071998 - SIMULACIÓN: Reserva confirmada
+2026-11-22 03:01:50.072255 - SIMULACIÓN: Reserva procesada
+2026-11-22 03:01:50.072506 - SIMULACIÓN: Intento de reserva cancelada
+2026-11-22 03:01:50.072658 - SIMULACIÓN: Servicio inexistente
+2026-11-22 03:01:50.073030 - Fin simulación automática.
+2026-11-22 03:09:05.630349 - Aplicación finalizada.
+2026-11-22 03:09:15.385301 - Inicio simulación automática.
+2026-11-22 03:09:15.386321 - Cliente válido creado.
+2026-11-22 03:09:15.386762 - ERROR: Correo inválido.
+2026-11-22 03:09:15.387248 - ERROR: Teléfono inválido.
+2026-11-22 03:09:15.391853 - ERROR FECHA: La fecha debe estar en formato dd/mm/aaaa.
+2026-11-22 03:09:15.392118 - Reserva válida creada.
+2026-11-22 03:09:15.392303 - Reserva confirmada.
+2026-11-22 03:09:15.392620 - Reserva procesada.
+2026-11-22 03:09:15.392955 - ERROR: No se puede cancelar una reserva procesada.
+2026-11-22 03:09:15.393385 - ERROR: Servicio inexistente.
+2026-11-22 03:09:15.393794 - ERROR: No se puede confirmar una reserva cancelada.
+2026-11-22 03:09:15.394005 - Fin simulación automática.
+2026-11-22 03:10:44.212075 - ERROR RESERVA: La fecha debe estar en formato dd/mm/aaaa.
+2026-11-22 03:12:05.786434 - Aplicación finalizada.
+2026-11-22 03:14:17.218146 - ERROR CLIENTE: Correo inválido.
+2026-11-22 03:14:17.219198 - Finalizó proceso de registro de cliente.
+2026-11-22 03:14:22.263042 - Aplicación finalizada.
+2026-11-22 03:15:01.269419 - CLIENTE REGISTRADO: ANAIS ROJAS
+2026-11-22 03:15:01.270453 - Finalizó proceso de registro de cliente.
+2026-11-22 03:15:37.327160 - Reserva creada.
+2026-11-22 03:16:13.494109 - Reserva confirmada
+2026-11-22 03:16:26.208317 - Reserva procesada.
+2026-11-22 03:28:31.708276 - Aplicación finalizada.
+2026-11-22 03:29:26.318782 - CLIENTE REGISTRADO: ANAIS ROJAS
+2026-11-22 03:29:26.319887 - Finalizó proceso de registro de cliente.
+2026-11-22 03:30:05.245047 - Reserva creada.
+2026-11-22 03:30:18.324471 - Reserva confirmada
+2026-11-22 03:31:12.239152 - Inicio simulación automática.
+2026-11-22 03:31:12.240295 - Cliente válido creado.
+2026-11-22 03:31:12.240927 - ERROR: Correo inválido.
+2026-11-22 03:31:12.241615 - ERROR: Teléfono inválido.
+2026-11-22 03:31:12.242354 - ERROR FECHA: La fecha debe estar en formato dd/mm/aaaa.
+2026-11-22 03:31:12.242805 - Reserva válida creada.
+2026-11-22 03:31:12.243319 - Reserva confirmada.
+2026-11-22 03:31:12.243803 - Reserva procesada.
+2026-11-22 03:31:12.244351 - ERROR: No se puede cancelar una reserva procesada.
+2026-11-22 03:31:12.245095 - ERROR: Servicio inexistente.
+2026-11-22 03:31:12.245583 - ERROR: No se puede confirmar una reserva cancelada.
+2026-11-22 03:31:12.245815 - Fin simulación automática.
+2026-11-22 03:31:19.452880 - Aplicación finalizada.
+2026-11-22 03:32:08.913614 - Aplicación finalizada.
